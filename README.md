@@ -95,7 +95,7 @@ Und auch Tabellen lassen Sich erstellen
 </table>
 ```
 
-# Aufgabe1:
+# Aufgabe 1:
 
 Starten sie mit der datei hello.html aus dem Repository. 
 Validieren Sie die Datei mithilfe des W3C validators 
@@ -111,7 +111,10 @@ Erstellen Sie folgende Dateien in denen Sie die entsprechenden Technologien anwe
 
 Stellen Sie mit hilfe des Validators sicher, dass es sich um gueltige HTML dateien handelt.
 
-# Augabe2:
+Laden Sie einen Screenshot der im Browser gerenderten Datei hoch!
+
+# Augabe 2:
 
 Erstellen Sie einen cv.html welche einen Lebenslauf beinhalted und stellen Sie mit Hilfe des Validators sicher, dass es sich um eine gueltige HTML Datei handelt.
 
+Laden Sie einen Screenshot der im Browser gerenderten Datei hoch!
