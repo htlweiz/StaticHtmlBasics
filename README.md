@@ -2,7 +2,7 @@
 
 HTML Hypertext Markup Language
 
-Ein HTML Dokument ist eine einfache Textdatei, welche von einem Webbrowser gelesen interpretiert und angezeigt wird.
+Ein HTML Dokument ist eine einfache Textdatei, deren Inhalt von einem Webbrowser gelesen, interpretiert und angezeigt wird.
 
 Eine typisches Hello World Dokument sieht zum Beispiel folgendermassen aus!
 
@@ -99,22 +99,23 @@ Und auch Tabellen lassen Sich erstellen
 
 Starten sie mit der datei hello.html aus dem Repository. 
 Validieren Sie die Datei mithilfe des W3C validators 
+
 https://validator.w3.org/#validate_by_upload
 
 Erstellen Sie folgende Dateien in denen Sie die entsprechenden Technologien anwenden:
 
 * paragraph.html
-* itemize.html
-* numericList.html
+* itemize.html        (Listen Ohne Nummerierung)
+* numericList.html    (Nummerierte Listen)
 * headlines.html
 * tables.html
 
-Stellen Sie mit hilfe des Validators sicher, dass es sich um gueltige HTML dateien handelt.
+Stellen Sie mit Hilfe des Validators sicher, dass es sich um gueltige HTML Dateien handelt.
 
 Laden Sie einen Screenshot der im Browser gerenderten Datei hoch!
 
 # Augabe 2:
 
-Erstellen Sie einen cv.html welche einen Lebenslauf beinhalted und stellen Sie mit Hilfe des Validators sicher, dass es sich um eine gueltige HTML Datei handelt.
+Erstellen Sie einen `cv.html` welche einen Lebenslauf beinhalted und stellen Sie mit Hilfe des Validators sicher, dass es sich um eine gueltige HTML Datei handelt.
 
 Laden Sie einen Screenshot der im Browser gerenderten Datei hoch!
